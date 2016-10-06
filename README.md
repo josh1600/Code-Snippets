@@ -20,6 +20,7 @@ All creators have been credited and if a link to there modding profile was found
 ##### MP & Other
 - [Menu Base for GSC](Snippets/gsc/menubase.gsc)
 - [Spawning weapons in MP](Snippets/gsc/spawnweapons.gsc)
+- [Homefront style Spawning](Snippets/gsc/homefrontspawn.gsc)
 
 ### Other / Misc
 - [Kill streak list](Snippets/other/killstreaks.md)
@@ -48,3 +49,4 @@ All creators have been credited and if a link to there modding profile was found
 - Pphelix `Character Models, `
 - Author. `Camo list, Pap Camos, `
 - JacobRoberto `Change starting gun, `
+- Liam? `Homefront Spawn, `
