@@ -29,13 +29,17 @@ All creators have been credited and if a link to there modding profile was found
 - [Camo List](Snippets/other/camolist.md)
 
 ### Awesome open sourced projects
+##### MP
 - [Infected Mp Mode](https://github.com/DidUknowiPwn/Infected-T7)
 - [Prop Hunt Mp Mode](https://github.com/DidUknowiPwn/Prop-Hunt-T7)
 - [Party Game Modes](https://github.com/DidUknowiPwn/Party-Modes-T7)
 
+#### Zombies
+- [PHD Flopper](https://github.com/echo000/zombies_PHD)
+
 # Contributors
 - Shiny: `Zombie Code Weapon list, Workshop.json, `
-- Echo000: `Double Jump in zombies, `
+- Echo000: `Double Jump in zombies, PHD Flopper, `
 - DidUknowiPwn: `Infected Mp Mode, Prop Hunt`
 - ZeRoY: `Kill Streak List, Base weapon list, `
 - JeffSkye: `Menu Base, `
