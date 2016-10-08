@@ -21,6 +21,7 @@ All creators have been credited and if a link to there modding profile was found
 - [Menu Base for GSC](Snippets/gsc/menubase.gsc)
 - [Spawning weapons in MP](Snippets/gsc/spawnweapons.gsc)
 - [Homefront style Spawning](Snippets/gsc/homefrontspawn.gsc)
+- [Rotating Sky](Snippets/gsc/rotatingsky.gsc)
 
 ### Other / Misc
 - [Kill streak list](Snippets/other/killstreaks.md)
@@ -50,3 +51,4 @@ All creators have been credited and if a link to there modding profile was found
 - Author. `Camo list, Pap Camos, `
 - JacobRoberto `Change starting gun, `
 - Liam? `Homefront Spawn, `
+- #Gmzorz `Rotating Sky, `
