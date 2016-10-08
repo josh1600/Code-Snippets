@@ -11,7 +11,7 @@ All creators have been credited and if a link to there modding profile was found
 
 ### GSC
 ##### Zombies
-- [Gobble Gums in Zombies](Snippets/gsc/gubblegumeffects.gsc)
+- [Gobble Gums in Zombies](Snippets/gsc/gobblegumeffects.gsc)
 - [Wall Running in zombies](Snippets/gsc/wallrunning.gsc)
 - [Stopping out of bounds and weapon limit](Snippets/gsc/outofbounds.gsc)
 - [Double Jump in zombie maps](Snippets/gsc/doublejump.gsc)
