@@ -3,8 +3,16 @@
     DESC:
         allows addition of the gobblegums back into any map easily.
 
+		THIS IS NOT FULLY FUNCTIONING CODE. YOU WILL HAVE TO DO SOME THINGS
+		YOURSELF :) 
+
     NOTE:
         Missing some of the rare effects.
+
+		It's not setup for the machine yet. The code is purely the gobblegum
+		effects replicated. You could setup your own trigger and call player
+		thread _zm_boons::random_boon_effect(); when they activate to get a
+		basic functionality similar to the bgb machine
 */
 
 #using scripts\codescripts\struct;
