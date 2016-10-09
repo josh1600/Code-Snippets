@@ -27,6 +27,7 @@ All creators have been credited and if a link to there modding profile was found
 ### Other / Misc
 - [Kill streak list](Snippets/other/killstreaks.md)
 - [MP Perk List](Snippets/other/perks.md)
+- [MP Equipment List](Snippets/other/mpequipment.md)
 - [Zombie Code Weapon List](Snippets/other/weaponlist.md)
 - [Base Weapons for Mp](Snippets/other/mpbaseweapons.md)
 - [Character Model list](Snippets/other/charmodels.md)
@@ -46,7 +47,7 @@ All creators have been credited and if a link to there modding profile was found
 - Echo000: `Double Jump in zombies, PHD Flopper, `
 - DidUknowiPwn: `Infected Mp Mode, Prop Hunt`
 - ZeRoY: `Kill Streak List, Base weapon list, `
-- JeffSkye: `Menu Base, Mp Perks List, `
+- JeffSkye: `Menu Base, Mp Perks List, Mp Equipment list, `
 - Maciej Ray Marcin `Wall Running, `
 - MiKeY ( owner ) `Stopping out of bounds and weapon limit, Spawning weapons, `
 - Pphelix `Character Models, `
