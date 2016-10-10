@@ -24,3 +24,10 @@ level.player_too_many_weapons_monitor_func = &nothing;
 level.player_out_of_playable_area_monitor = false;
 
 function nothing() {}
+
+/*
+    Alternative
+    -- Credit to: JeffSkye
+        
+*/
+self.OOBDisabled = true;
