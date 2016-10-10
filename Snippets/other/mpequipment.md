@@ -79,7 +79,6 @@
 - bouncingbetty
 - mine_bouncing_betty
 - incendiary_grenade
-- rpg
 
 # Tacticals:
 - willy_pete
@@ -89,3 +88,9 @@
 - proximity_grenade
 - pda_hack
 - trophy_system
+
+# Launchers:
+- launcher_standard
+- launcher_lockon
+- launcher_multi
+- rpg
