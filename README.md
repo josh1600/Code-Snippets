@@ -39,6 +39,9 @@ All creators have been credited and if a link to there modding profile was found
 - [Prop Hunt Mp Mode](https://github.com/DidUknowiPwn/Prop-Hunt-T7)
 - [Party Game Modes](https://github.com/DidUknowiPwn/Party-Modes-T7)
 
+##### Bits and bobs
+- [Random Projects](https://github.com/RokuHodo/Black-Ops-III-Mod-Tools-Projects)
+
 #### Zombies
 - [PHD Flopper](https://github.com/echo000/zombies_PHD)
 
