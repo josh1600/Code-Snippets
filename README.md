@@ -44,6 +44,7 @@ All creators have been credited and if a link to there modding profile was found
 
 #### Zombies
 - [PHD Flopper](https://github.com/echo000/zombies_PHD)
+- [Ingame banking system](https://gist.github.com/Authorjames/3c020f4d9f78450d876bd2f4bb75f1a9)
 
 # Contributors
 - Shiny: `Zombie Code Weapon list, Workshop.json, `
